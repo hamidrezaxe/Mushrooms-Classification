@@ -2,7 +2,8 @@
 This project uses the famous Mushroom Classification dataset to predict whether a mushroom is edible or poisonous based on its physical traits. Features are fully categorical, and a Random Forest model is used for accurate classification.
 
 # 📁 Dataset
-- Mushrooms Classification Dataset by UCI Machine Learning Repository
+- Mushrooms Classification Dataset by [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/73/mushroom)
+- License: CC0 (Public Domain)
 
 # 📌 Features
 - 22 categorical features (e.g., cap shape, odor, habitat)
