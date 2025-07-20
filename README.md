@@ -1,5 +1,5 @@
 # 🍄 Mushroom Classification
-This project applies multiple machine learning algorithms to classify mushrooms as edible or poisonous based on their features. The dataset contains categorical variables, which are preprocessed using one-hot encoding.
+This project applies multiple machine learning algorithms to classify mushrooms as edible or poisonous based on their features. The dataset contains categorical variables, which are preprocessed using LabelEncoder encoding.
 
 # 📁 Dataset
 - Mushrooms Classification Dataset by [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/73/mushroom)
